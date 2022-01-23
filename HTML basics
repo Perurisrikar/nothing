@@ -1,0 +1,51 @@
+<html>
+<head><title>
+my first html by srikar
+</title></head>
+<body>
+<h1>This is a web page for:-<br>introduction to HTML 5
+</h1><h3><i>Now first we will know what is html:-</i></h3>
+HTML stands for Hypertext Mark-up language.<br>
+Term html is divided into:-<br>HYPER TEXT <br>Hypertext is a piece of ordinary text that has a special feature of linking to other documents or webpages. So, when you click on the hypertext, it opens a new web page.
+<br>MARKUP LANGUAGE<br>
+It is a language that uses special symbols called 'Tags' to mark-up a text document that instructs the browser how to display the text. Mark-up languages are solely concerned with classifying the parts of a document according to their functions like indicating which part is the title of the document, which part is a heading or a subheading, and so on.
+<h3>Tools to be used</h3>
+We require two basic tools to work with HTML documents:<br>
+HTML Editor - for creating and saving the documents.<br>
+Browser-for viewing the documents.<br>
+<h3>HTML EDITOR :-<br></h3>
+Mainly two types of HTML editors are there:
+<br>
+WYSIWYG stands for What You See Is What You Get. This type of web editor allows a developer to see what the end result will look like while the document is being created. These editors provide various tools and graphical interfaces where the web pages are designed. While using a WYSIWYG editor, users may not require the knowledge of HTML commands as the elements (images, tables, lists, etc.) can be placed on the interface and the required HTML code will be added automatically. For example: Adobe Dreamweaver, Amaya, Google Web Designer.
+<br>
+Text Editor
+<br>
+You can also create HTML documents using normal text editors like Notepad or WordPad. Unlike WYSIWYG editors, here, one is required to have proper knowledge of HTML commands to develop web pages.
+<br>
+BROWSER
+<br>
+Web browsers are used to view the HTML documents. Some commonly used web browsers are:
+
+Google Chrome
+
+Internet Explorer
+
+Microsoft Edge<br>
+<h3>
+CREATING AN HTML DOCUMENT :-</h3>
+
+To create HTML documents, we will use NotePad. Let us discuss how to create HTML document using Notepad.
+
+<br>Open Notepad by clicking on Start > All Programs > Accessories > Notepad.
+
+The Notepad window will appear.<br>
+<h3>Type the HTMLcode as :-</h3><br>
+<html>
+<head>
+<title>
+My First Program
+</title> 
+</head>
+<body>
+This is my first HTML program!!!!!
+</body> </html>
